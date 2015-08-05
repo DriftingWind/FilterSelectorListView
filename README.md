@@ -4,7 +4,7 @@ FilterSelectorListView is useful for making multiple selection with see selectio
 
 ## Screenshot
 
-![1](https://raw.githubusercontent.com/Darshanptl7500/MultiSelectController/master/Screenshots/1.png)![2](https://raw.githubusercontent.com/Darshanptl7500/MultiSelectController/master/Screenshots/2.png)
+![1](https://raw.githubusercontent.com/pchauhan/FilterSelectorListView/master/Screenshots/1.png)![2](https://raw.githubusercontent.com/pchauhan/FilterSelectorListView/master/Screenshots/2.png)
 
 
 you can download to see example  for more understanding.
