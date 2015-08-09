@@ -13,6 +13,9 @@ you can download to see example  for more understanding.
 
  - Android 2.3.3+
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FilterSelectorListView-green.svg?style=flat)](https://android-arsenal.com/details/1/2256)
+
+
 ##iPhone
 
 - Please check [MultiSelectController](https://github.com/Darshanptl7500/MultiSelectController) for iPhone
